@@ -1,0 +1,9 @@
+```json
+{
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_email_password",
+    "recipient_email": "recipient_email@example.com",
+    "threshold_high": 100.0,
+    "threshold_low": 50.0
+}
+```
